@@ -1,4 +1,4 @@
-# The official GitHub account for Mario Possamato.
+# The official GitHub account for Mario Possamato
 
 ## About
 
