@@ -27,6 +27,10 @@ I'm a reverse engineer, award-winning software developer who has been contributi
 - Ghidra
 - Interactive Disassembler (IDA)
 
+### Meta-build tools
+
+- CMake
+
 ### Programming languages
 
 - AArch64 assembly
@@ -34,6 +38,8 @@ I'm a reverse engineer, award-winning software developer who has been contributi
 - C++
 - PowerPC assembly
 - Python
+
+---
 
 > [!TIP]
 > Join [Mario Possamato's Lair](https://discord.gg/qT7zG4PVNy), the official Discord server for Mario Possamato!
