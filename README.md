@@ -42,4 +42,4 @@ I'm a reverse engineer, award-winning software developer who has been contributi
 ---
 
 > [!TIP]
-> Join [Mario Possamato's Lair](https://discord.gg/qT7zG4PVNy), the official Discord server for Mario Possamato!
+> Join [💜 Mario Possamato's Lair 💜](https://discord.gg/qT7zG4PVNy), the official Discord server for Mario Possamato!
